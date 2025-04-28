@@ -1,5 +1,3 @@
-# save this as sp500_simulator.py
-
 import streamlit as st
 import matplotlib.pyplot as plt
 
